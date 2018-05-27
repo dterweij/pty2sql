@@ -20,7 +20,7 @@ and maybe more
 
 
 Current (debug) output:
-
+```
 Started. ( press ^C to exit )
 1527460382.450 3 RxSDR Closed 0 RxAUX Active 97 RxSDR2 Closed 0
 1527460383.464 3 RxSDR Closed 0 RxAUX Active 100 RxSDR2 Closed 0
@@ -35,3 +35,4 @@ Started. ( press ^C to exit )
 1527460420.465 3 RxSDR Closed 0 RxAUX Closed 0 RxSDR2 Closed 0
 ^C
 Stopped.
+```
