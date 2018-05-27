@@ -1,0 +1,2 @@
+# pty2sql
+SVXLINK STATE_PTY to MySQL
